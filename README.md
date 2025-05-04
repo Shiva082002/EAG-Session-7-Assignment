@@ -1,4 +1,4 @@
-# EAG-Session-8-Assignment     --- Document Intelligence System
+# EAG-Session-7-Assignment     --- Document Intelligence System
 
 A comprehensive document monitoring, tracking, and intelligence system that tracks file access across your system and provides intelligent finding capabilities on user query.
 
